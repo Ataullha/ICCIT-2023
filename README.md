@@ -2,6 +2,16 @@
 
 This repository hosts the PakhiderChobi dataset, comprising 8,670 annotated images of 33 Bangladeshi bird species, addresses the urgent need for accurate bird detection and classification in urban environments. This resource supports real-time recognition, including scenarios with multiple birds of the same class or different species within a single frame. Utilizing the YOLOv8 object detection model, the study achieves an impressive mean average precision (mAP) of 95.3% with rapid inference times of 6.6 milliseconds per image. This research provides a valuable tool for bird conservation efforts in the face of urbanization and habitat loss.
 
+## Directory Structure
+
+```
++---Dataset
++---Model
++---Paper
++---Tutorial
+
+```
+
 ## Cite
 
 ```
