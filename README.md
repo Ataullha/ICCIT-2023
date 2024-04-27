@@ -4,13 +4,12 @@ This repository hosts the PakhiderChobi dataset, comprising 8,670 annotated imag
 
 ## Directory Structure
 
-```
+<pre>
 +---Dataset
 +---Model
 +---Paper
 +---Tutorial
-
-```
+</pre>
 
 ## Cite
 
